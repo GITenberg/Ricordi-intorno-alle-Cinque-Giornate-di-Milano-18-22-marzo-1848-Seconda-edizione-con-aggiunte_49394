@@ -1,10 +1,16 @@
 _repo: Ricordi-intorno-alle-Cinque-Giornate-di-Milano-18-22-marzo-1848-Seconda-edizione-con-aggiunte_49394
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49394-h/images/cover.jpg
 creator:
   author:
     agent_name: Torelli, Luigi
     gutenberg_agent_id: '45311'
     url: http://www.gutenberg.org/2009/agents/45311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49394#Ricordi-intorno-alle-Cinque-Giornate-di-Milano-18-22-marzo-1848-Seconda-edizione-con-aggiunte
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2015-07-08'
 gutenberg_type: Text
