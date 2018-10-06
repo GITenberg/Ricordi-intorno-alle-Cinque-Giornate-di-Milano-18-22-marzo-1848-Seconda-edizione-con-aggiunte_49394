@@ -20,6 +20,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Ricordi intorno alle Cinque Giornate di Milano
 
   (18-22 marzo 1848) Seconda edizione con aggiunte'
